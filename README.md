@@ -19,7 +19,7 @@
 >
 >
 > Consulta:
-> representa a consulta médica,, com as informações sobre as datas, médicos e pacientes envolvidos.
+> representa a consulta médica, com as informações sobre as datas, médicos e pacientes envolvidos.
 <br>
  
 <p1>Funcionalidades Específicas</p1>
